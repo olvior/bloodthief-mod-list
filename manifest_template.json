@@ -1,0 +1,20 @@
+{
+    "AuthorName-ModName" : {
+        "name": "ModName",
+        "name_pretty": "Mod Name",
+        "namespace": "AuthorName",
+        "version_number": "1.0.0",
+        "description": "Mod description goes here",
+        "dependencies": [
+            "Add IDs of other mods here, if your mod needs them to work"
+        ],
+        "incompatibilities": [
+            "Add IDs of other mods here, if your mod conflicts with them"
+        ],
+        "authors": ["AuthorName"],
+        "tags": ["tag1", "tag2"],
+        "description_rich": "Long mod description goes here",
+        "download": "https://github.com/user/project/download/link.zip",
+        "repo": "https://github.com/user/project"
+    }
+}
