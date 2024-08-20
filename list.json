@@ -10,22 +10,8 @@
         "authors": ["olvior"],
         "tags": ["cheats"],
         "description_rich": "It's a really cool mod that gives you infinite blood.\nAs a byproduct, it also gives infinite jumps and near invulnerability!",
-        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/download/v0.1.1/olvior-InfiniteBlood.zip",
+        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/latest/download/olvior-InfiniteBlood.zip",
         "repo": "https://github.com/olvior/bloodthief-mod-loader/tree/main/example_mods/mods-unpacked/olvior-InifiteBlood"
-    },
-    "olvior-LevelHelper": {
-        "name": "LevelHelper",
-        "name_pretty": "Level Helper",
-        "namespace": "olvior",
-        "version_number": "1.0.0",
-        "description": "A helper mod that makes it easier to add levels",
-        "dependencies": [],
-        "incompatibilities": [],
-        "authors": ["olvior"],
-        "tags": ["helper"],
-        "description_rich": "This mods makes it much simpler to add a level to the game.\nThe level will show up in the list and be enterable automaticaly.",
-        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/download/v0.1.1/olvior-LevelHelper.zip",
-        "repo": "https://github.com/olvior/bloodthief-mod-loader/tree/main/example_mods/mods-unpacked/olvior-LevelHelper"
     },
     "olvior-TestLevel": {
         "name": "TestLevel",
@@ -33,13 +19,13 @@
         "namespace": "olvior",
         "version_number": "1.0.0",
         "description": "A test example level",
-        "dependencies": ["olvior-LevelHelper"],
+        "dependencies": [],
         "incompatibilities": [],
         "authors": ["olvior"],
         "tags": ["level"],
         "description_rich": "Long mod description goes here",
         "incompatibilities": [],
-        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/download/v0.1.1/olvior-TestLevel.zip",
+        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/latest/download/olvior-TestLevel.zip",
         "repo": "https://github.com/olvior/bloodthief-mod-loader/tree/main/example_mods/mods-unpacked/olvior-InifiteBlood"
     }
 }
