@@ -1,7 +1,7 @@
 {
     "olvior-ExampleMap": {
-        "name": "aaaaa",
-        "name_pretty": "aaaaa",
+        "name": "ExampleMap",
+        "name_pretty": "Example map",
         "namespace": "olvior",
         "version_number": "1.0.0",
         "description": "An example map",
@@ -10,7 +10,7 @@
         "authors": ["olvior"],
         "tags": ["map"],
         "description_rich": "Just an example map",
-        "SHA-256": "",
+        "SHA-256": "19cbfaf9d45603621dfa9eb1d1235a59aee497f2febe2c7638d20ab13f854fdb",
         "download": "https://cdn.discordapp.com/attachments/761678626294071326/1287412828487286946/olvior-ExampleMap.zip?ex=66f17421&is=66f022a1&hm=5b44abcd41d59fbdd3c1563c0717c11c4c98e15ace1551b255564137b1317e12&",
         "repo": "https://github.com/olvior/bloodthief-mod-loader",
     },
