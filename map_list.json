@@ -10,8 +10,8 @@
         "authors": ["olvior"],
         "tags": ["map"],
         "description_rich": "Just an example map",
-        "SHA-256": "4d32b934ce39ad59c5c3622a69d7dd84fc024926c810ebb0a4ea5d6f34b8eede",
-        "download": "https://cdn.discordapp.com/attachments/761678626294071326/1287785955381481535/olvior-ExampleMap.zip?ex=66f2cfa1&is=66f17e21&hm=02a5b9c389c7b025a75660c1cbb943fe3222ea1030333a705a50ad50ea2e809e&",
+        "SHA-256": "a453e81737b8815f0dd12f9b6014f9f1b287f2f1ec5f7c84a165ecd1f0c2e641",
+        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/download/v0.5.1/olvior-ExampleMap.zip",
         "repo": "https://github.com/olvior/bloodthief-mod-loader",
     },
 }
