@@ -10,7 +10,7 @@
         "authors": ["olvior"],
         "tags": ["cheats"],
         "description_rich": "It's a really cool mod that gives you infinite blood.\nAs a byproduct, it also gives infinite jumps and near invulnerability!",
-        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/latest/download/olvior-InfiniteBlood.zip",
+        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/download/v0.5.0/olvior-InfiniteBlood.zip",
         "repo": "https://github.com/olvior/bloodthief-mod-loader/tree/main/example_mods/mods-unpacked/olvior-InifiteBlood"
     },
     "olvior-TestLevel": {
@@ -25,7 +25,7 @@
         "tags": ["level"],
         "description_rich": "Long mod description goes here",
         "incompatibilities": [],
-        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/latest/download/olvior-TestLevel.zip",
+        "download": "https://github.com/olvior/bloodthief-mod-loader/releases/download/v0.5.0/olvior-TestLevel.zip",
         "repo": "https://github.com/olvior/bloodthief-mod-loader/tree/main/example_mods/mods-unpacked/olvior-InifiteBlood"
     }
 }
