@@ -14,4 +14,20 @@
         "download": "https://github.com/olvior/bloodthief-mod-loader/releases/download/v0.5.1/olvior-ExampleMap.zip",
         "repo": "https://github.com/olvior/bloodthief-mod-loader",
     },
+
+    "TRIVlAL-Construct": {
+        "name": "Construct",
+        "name_pretty": "Construction site",
+        "namespace": "TRIVlAL",
+        "version_number": "1.0.0",
+        "description": "My first map !",
+        "dependencies": [],
+        "incompatibilities": [],
+        "authors": ["TRIVlAL"],
+        "tags": ["map"],
+        "description_rich": "Dash trough the catacoombs and the cranes to infiltrate the castle !",
+        "SHA-256": "a4539dd344eb701951b4aa57e3f4babdeefc9da8fb6b45fdfb73b60ab0af91d1",
+        "download": "https://github.com/TRIVlAL/published-maps/releases/download/bloodthief/construct.zip",
+        "repo": "https://github.com/TRIVlAL/published-maps",
+    }
 }
