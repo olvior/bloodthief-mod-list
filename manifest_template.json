@@ -14,6 +14,7 @@
         "authors": ["AuthorName"],
         "tags": ["tag1", "tag2"],
         "description_rich": "Long mod description goes here",
+        "SHA-256": "checksum, can be found here https://emn178.github.io/online-tools/sha256_checksum.html",
         "download": "https://github.com/user/project/download/link.zip",
         "repo": "https://github.com/user/project"
     }
