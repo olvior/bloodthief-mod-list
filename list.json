@@ -14,4 +14,20 @@
         "download": "https://github.com/olvior/bloodthief-mod-loader/releases/download/v0.5.0/olvior-InfiniteBlood.zip",
         "repo": "https://github.com/olvior/bloodthief-mod-loader/tree/main/example_mods/mods-unpacked/olvior-InifiteBlood"
     },
+    "carlosfruitcup-skipSplash": {
+        "name": "skipSplash",
+        "name_pretty": "Skip Splash",
+        "namespace": "carlosfruitcup",
+        "version_number": "1.0.0",
+        "description": "skips the splash and warning screen",
+        "dependencies": [],
+        "incompatibilities": [],
+        "authors": ["carlosfruitcup"],
+        "tags": ["qol"],
+        "description_rich": "skips the 2nd 'fake' splash and warning screen",
+        "SHA-256": "5167ac56bcf692cc24c23de40de6d3a593d883e6c78adb2c737e24159bc863fb",
+        "download": "https://github.com/olvior/bloodthief-mod-list/releases/download/mods/carlosfruitcup-skipSplash.zip",
+        "repo": "https://github.com/carlosfruitcup/My-Bloodthief-Mods"
+    }
+
 }
