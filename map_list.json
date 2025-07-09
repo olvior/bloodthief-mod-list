@@ -3,7 +3,7 @@
         "name": "ExampleMap",
         "name_pretty": "Example map",
         "namespace": "olvior",
-        "version_number": "1.1.0",
+        "version_number": "1.2.0",
         "description": "An example map",
         "dependencies": [],
         "incompatibilities": [],
